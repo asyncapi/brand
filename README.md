@@ -1,7 +1,7 @@
 
 [![AsyncAPI Brand Banner](./assets/readme-banner.svg)](https://www.asyncapi.com)
 
-## Welcome to the brand ✨
+## Welcome to the AsyncAPI brand ✨
 Hi there! Thanks for stopping by 😄 In this project, we focus on all things related to the creative development of the AsyncAPI brand. The overarching goal for this repo is to provide a space where we can collaborate to define visuals such as logos, colors, typography, iconography, and more! All are welcome to contribute ideas and work where you feel comfortable. Before you submit your contribution, please read our [Code of Conduct](https://github.com/asyncapi/.github/blob/master/CODE_OF_CONDUCT.md) and [Contribution Guidelines](https://github.com/asyncapi/asyncapi/blob/master/CONTRIBUTING.md#contributing-to-asyncapi).
 
 ## Ready to contribute? 🙌 💡
