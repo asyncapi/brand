@@ -4,7 +4,7 @@
 </div>
 <br>
 <h2>Welcome to the brand ✨</h2>
-<p>Hi there! Thanks for stopping by Emoji 😄 In this project, we focus on all things related to the creative development of the AsyncAPI brand. The overarching goal for this repo is to provide a space where we can collaborate to define visuals such as logos, colors, typography, iconography, and more! All are welcome to contribute ideas and work where you feel comfortable. Before you submit your contribution, please read our <a href="https://github.com/asyncapi/.github/blob/master/CODE_OF_CONDUCT.md" target="_blank">Code of Conduct</a> and <a href="https://github.com/asyncapi/asyncapi/blob/master/CONTRIBUTING.md#contributing-to-asyncapi" target="_blank">Contribution Guidelines</a>.</p>
+<p>Hi there! Thanks for stopping by 😄 In this project, we focus on all things related to the creative development of the AsyncAPI brand. The overarching goal for this repo is to provide a space where we can collaborate to define visuals such as logos, colors, typography, iconography, and more! All are welcome to contribute ideas and work where you feel comfortable. Before you submit your contribution, please read our <a href="https://github.com/asyncapi/.github/blob/master/CODE_OF_CONDUCT.md" target="_blank">Code of Conduct</a> and <a href="https://github.com/asyncapi/asyncapi/blob/master/CONTRIBUTING.md#contributing-to-asyncapi" target="_blank">Contribution Guidelines</a>.</p>
 <br>
 <h2>Ready to contribute? 🙌 💡 </h2>
 <p>There are plenty of ways to share your contribution with this project, and you don't have to be a designer to do so! We welcome feedback and work alike in the following areas:</p>
