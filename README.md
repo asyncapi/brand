@@ -23,8 +23,8 @@ View the chart below to learn about the current goals for the AsyncAPI brand!
 
 |  Step  |                   Goal                     |
 | :----: | ------------------------------------------ |
-|   1    | Refresh logos, colors, typography, & establish voice/tone |
-|   2    | Create diverse set of iconography to complement tooling, website, & visual marketing |
+|   1    | Refresh logos, colors, typography, and establish voice/tone |
+|   2    | Create diverse set of iconography to complement tooling, website, and visual marketing |
 |   3    | Brand guidelines website |
 |   4    | Ideate and illustrate mascot to complement new brand style |
 |   5    | Design marketing campaign for brand roll-out |
