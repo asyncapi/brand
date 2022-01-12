@@ -15,6 +15,7 @@ There are plenty of ways to share your contribution with this project, and you d
 - Iconography
 - Mascot ideation/illustration
 - UI Kit
+- Marketing/Social Media design
 
 Issues in this repo are open to all who would like to give feedback and/or provide visual work.
 
