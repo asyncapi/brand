@@ -37,8 +37,8 @@ For use on light mode interfaces or light backgrounds.
 
 | Spec | Description |
 | --- | --- |
-| Background color(s) | White (#FFF), Gray 50 (#F7F9FA) |
-| Logo type color | Dark (#1B1130) |
+| Background color(s) | [`white`](../color/README.md/#base-colors) / [`gray-50`](../color/README.md/#gray-neutrals) |
+| Logo type color | [`dark`](../color/README.md/#base-colors) |
 | Logo mark style | Gradient |
 
 ---
@@ -50,8 +50,8 @@ For use on dark mode interfaces or dark backgrounds.
 
 | Spec | Description |
 | --- | --- |
-| Background color(s) | Dark (#1B1130) |
-| Logo type color | White (#FFF) |
+| Background color(s) | [`dark`](../color/README.md/#base-colors) |
+| Logo type color | [`white`](../color/README.md/#base-colors) |
 | Logo mark style | Gradient |
 
 ---
@@ -63,8 +63,8 @@ Alternative one-color logo version. For print use when we can only print with on
 
 | Spec | Description |
 | --- | --- |
-| Background color(s) | White (#FFF), Gray 50 (#F7F9FA), Any light-colored garment |
-| Logo type color | Dark (#1B1130) |
+| Background color(s) | [`white`](../color/README.md/#base-colors) / [`gray-50`](../color/README.md/#gray-neutrals), Any light-colored garment |
+| Logo type color | [`dark`](../color/README.md/#base-colors) |
 | Logo mark style | Outline |
 
 ---
@@ -76,8 +76,8 @@ Alternative one-color logo version. For print use when we can only print with on
 
 | Spec | Description |
 | --- | --- |
-| Background color(s) | Dark (#1B1130), Any dark-colored garment |
-| Logo type color | White (#FFF) |
+| Background color(s) | [`dark`](../color/README.md/#base-colors), Any dark-colored garment |
+| Logo type color | [`white`](../color/README.md/#base-colors) |
 | Logo mark style | Outline |
 
 ---
@@ -89,8 +89,8 @@ Alternative logo for use on gradient backgrounds and patterned/textured backgrou
 
 | Spec | Description |
 | --- | --- |
-| Background color(s) | Gradient, Patterns/Textures |
-| Logo type color | White (#FFF) |
+| Background color(s) | [Main Gradient](../color/README.md/#main-gradient), Patterns/Textures |
+| Logo type color | [`white`](../color/README.md/#base-colors) |
 | Logo mark style | Fill (white) |
 
 ---
