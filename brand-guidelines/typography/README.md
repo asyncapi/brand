@@ -2,9 +2,9 @@
 Use this documentation as a guide to proper usage of the AsyncAPI typography.
 
 **Table of contents**
-- Headings
-- Body copy (paragraphs)
-- Type pairings
+- [Headings](#headings)
+- [Body copy (paragraphs)](#body-copy-paragraphs)
+- [Type pairings](#type-pairings)
 
 ---
 
