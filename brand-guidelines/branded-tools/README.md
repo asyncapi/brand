@@ -6,7 +6,7 @@ Please refer to the following documentation for proper usage of the logos create
 
 **Table of contents**
 - Studio
-    - [Studio logo (light)](#studio-logo-light)
+    - [Studio logo (light)](#)
     - [Studio logo (dark)](#studio-logo-dark)
     - [Download logo kit for Studio](#download-logo-kit-for-studio)
 - Modelina
@@ -84,7 +84,7 @@ This version of the logo should be used on dark background interfaces.
 ## Modelina logo (dark)
 This version of the logo should be used on light background interfaces.
 
-![Modelina logo (light)](./assets/tooling-modelina-light.png)
+![Modelina logo (light)](./assets/tooling-modelina-dark.png)
 
 | Spec | Details |
 | --- | --- |
