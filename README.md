@@ -27,17 +27,11 @@ There are plenty of ways to share your contribution with this project, and you d
 
 Issues in this repo are open to all who would like to give feedback and/or provide visual work.
 
-## 🚗 💨 Roadmap
-View the chart below to learn about the current goals for the AsyncAPI brand!
+## 📌 Current projects
+Browse through current issues and pull requests by visiting the official project board for `Visual Experience & Design`!
 
-|   Status     |                   Goal                     |
-| :----: | ------------------------------------------ |
-|   In progress    | Brand guidelines |
-|   In progress    | Ideate and illustrate mascot to complement new brand style |
-|       | Create diverse set of iconography to complement tooling, website, and visual marketing |
-|   ✅    | Refresh logos, colors, typography, and establish voice/tone |
-|   ✅     | Design marketing campaign for brand roll-out |
+[![Stay up to date with our progress. View project board ->](./assets/github-brand_project-board-cta.png)](https://github.com/orgs/asyncapi/projects/10/views/2)
  
 
-## Join the discussion 📌
+## 💬 Join the discussion
 Join the [AsyncAPI Slack workspace](https://asyncapi.com/slack-invite) and the `#12_design` channel to follow all conversations relating to this repo as well as other topics of design.
