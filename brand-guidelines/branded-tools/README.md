@@ -64,7 +64,7 @@ This version of the logo should be used on light background interfaces.
 
 This kit includes both light and dark versions of the logo in PNG and SVG.
 
-[Get them here](./logos/studio/)
+[Get them here](../../logos/tooling/studio/)
 
 ---
 
@@ -96,7 +96,7 @@ This version of the logo should be used on light background interfaces.
 ### **Download logo kit for Modelina**
 This kit includes both light and dark versions of the logo in PNG and SVG.
 
-[Get them here](./logos/modelina/)
+[Get them here](../../logos/tooling/modelina/)
 
 ---
 
@@ -127,7 +127,7 @@ This version of the logo should be used on light background interfaces.
 ### **Download logo kit for Glee**
 This kit includes both light and dark versions of the logo in PNG and SVG.
 
-[Get them here](./logos/glee/)
+[Get them here](../../logos/tooling/glee/)
 
 ---
 
@@ -158,7 +158,7 @@ This version of the logo should be used on light background interfaces.
 ### **Download logo kit for Parser**
 This kit includes both light and dark versions of the logo in PNG and SVG.
 
-[Get them here](./logos/parser/)
+[Get them here](../../logos/tooling/parser/)
 
 ---
 
@@ -189,7 +189,7 @@ This version of the logo should be used on light background interfaces.
 ### **Download logo kit for CLI**
 This kit includes both light and dark versions of the logo in PNG and SVG.
 
-[Get them here](./logos/cli/)
+[Get them here](../../logos/tooling/cli/)
 
 ---
 
@@ -220,7 +220,7 @@ This version of the logo should be used on light background interfaces.
 ### **Download logo kit for Github Actions**
 This kit includes both light and dark versions of the logo in PNG and SVG.
 
-[Get them here](./logos/github-actions/)
+[Get them here](../../logos/tooling/github-actions/)
 
 ---
 
@@ -251,5 +251,5 @@ This version of the logo should be used on light background interfaces.
 ### **Download logo kit for Generator**
 This kit includes both light and dark versions of the logo in PNG and SVG.
 
-[Get them here](./logos/generator/)
+[Get them here](../../logos/tooling/generator/)
 
