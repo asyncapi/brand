@@ -9,10 +9,11 @@ Before you submit your contribution, please read our [Code of Conduct](https://g
 ## ✨ Brand Guidelines
 Navigate through our brand guidelines using the links below
 
-- [Logo](brand-guidelines/logo/README.md)
-- [Color](brand-guidelines/color/README.md)
-- [Typography](brand-guidelines/typography/README.md)
-- [Branded Tools](brand-guidelines/branded-tools/README.md)
+- [Brand Guidelines](brand-guidelines/README.md)
+    - [Logo](brand-guidelines/logo/README.md)
+    - [Color](brand-guidelines/color/README.md)
+    - [Typography](brand-guidelines/typography/README.md)
+    - [Branded Tools](brand-guidelines/branded-tools/README.md)
 
 ## 🙌 💡 Ready to contribute?
 There are plenty of ways to share your contribution with this project, and you don't have to be a designer to do so! We welcome feedback and work alike in the following areas:

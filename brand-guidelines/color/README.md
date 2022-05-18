@@ -143,3 +143,7 @@ The following shown are two other gradients that comply with AsyncAPI branding. 
 | --- | --- |
 | Star Dust | `linear-gradient(225deg, #2DCCFD 9.35%, #AD20E2 88.41%);` |
 | Sun Burst | `linear-gradient(225deg, #FFD23F 9.35%, #E50E99 88.41%);` |
+
+---
+
+[<-- Back to Brand Guidelines home](/brand-guidelines/README.md)

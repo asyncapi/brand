@@ -67,3 +67,7 @@ The following lists the specs for the above typography pairing:
 | `font-size` | 18px |
 | `color` (light background) | `gray-700` |
 | `color` (dark background) | `gray-300` |
+
+---
+
+[<-- Back to Brand Guidelines home](/brand-guidelines/README.md)

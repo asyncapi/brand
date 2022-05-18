@@ -104,3 +104,7 @@ Alternative logo for use on gradient backgrounds and patterned/textured backgrou
 Please use the examples below to understand what NOT to do when using the logo in your application/marketing.
 
 ![Logo misuse](./assets/logo-misuse.png)
+
+---
+
+[<-- Back to Brand Guidelines home](/brand-guidelines/README.md)
