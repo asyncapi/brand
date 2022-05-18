@@ -5,40 +5,42 @@
 Please refer to the following documentation for proper usage of the logos created for AsyncAPI's branded open source tools.
 
 **Table of contents**
-- Studio
-    - [Studio logo (light)](#)
-    - [Studio logo (dark)](#studio-logo-dark)
+- [Studio](#studio-logo)
+    - [Light version](#light-version)
+    - [Dark version](#dark-version)
     - [Download logo kit for Studio](#download-logo-kit-for-studio)
-- Modelina
-    - [Modelina logo (light)](#modelina-logo-light)
-    - [Modelina logo (dark)](#modelina-logo-dark)
+- [Modelina](#modelina-logo)
+    - [Light version](#light-version-1)
+    - [Dark version](#dark-version-1)
     - [Download logo kit for Modelina](#download-logo-kit-for-modelina)
-- Glee
-    - [Glee logo (light)](#glee-logo-light)
-    - [Glee logo (dark)](#glee-logo-dark)
+- [Glee](#glee-logo)
+    - [Light version](#light-version-2)
+    - [Dark version](#dark-version-2)
     - [Download logo kit for Glee](#download-logo-kit-for-glee)
-- Parser
-    - [Parser logo (light)](#parser-logo-light)
-    - [Parser logo (dark)](#parser-logo-dark)
+- [Parser](#parser-logo)
+    - [Light version](#light-version-3)
+    - [Dark version](#dark-version-3)
     - [Download logo kit for Parser](#download-logo-kit-for-parser)
-- CLI
-    - [CLI logo (light)](#cli-logo-light)
-    - [CLI logo (dark)](#cli-logo-dark)
+- [CLI](#cli-logo)
+    - [Light version](#light-version-4)
+    - [Dark version](#dark-version-4)
     - [Download logo kit for CLI](#download-logo-kit-for-cli)
-- Github Actions
-    - [Github Actions logo (light)](#github-actions-logo-light)
-    - [Github Actions logo (dark)](#github-actions-logo-dark)
+- [Github Actions](#github-actions-logo)
+    - [Light version](#light-version-5)
+    - [Dark version](#dark-version-5)
     - [Download logo kit for Github Actions](#download-logo-kit-for-github-actions)
-- Generator
-    - [Generator logo (light)](#generator-logo-light)
-    - [Generator logo (dark)](#generator-logo-dark)
+- [Generator](#generator-logo)
+    - [Light version](#light-version-6)
+    - [Dark version](#dark-version-6)
     - [Download logo kit for Generator](#download-logo-kit-for-generator)
 
 ---
 
-## Studio logo (light)
+## Studio logo
 
 This version of the logo should be used on dark background interfaces.
+
+### Light version
 
 ![Studio logo (light)](./assets/tooling-studio-light.png)
 
@@ -49,7 +51,7 @@ This version of the logo should be used on dark background interfaces.
 | Background color | [`dark`](../color/README.md/#base-colors) |
 
 
-## Studio logo (dark)
+### Dark version
 This version of the logo should be used on light background interfaces.
 
 ![Studio logo (dark)](./assets/tooling-studio-dark.png)
@@ -60,7 +62,7 @@ This version of the logo should be used on light background interfaces.
 | Type color | [`dark`](../color/README.md/#base-colors) |
 | Background color | [`white`](../color/README.md/#base-colors), [`gray-50`](../color/README.md/#gray-neutrals) |
 
-### **Download logo kit for Studio**
+#### **Download logo kit for Studio**
 
 This kit includes both light and dark versions of the logo in PNG and SVG.
 
@@ -68,7 +70,9 @@ This kit includes both light and dark versions of the logo in PNG and SVG.
 
 ---
 
-## Modelina logo (light)
+## Modelina logo
+
+### Light version
 
 This version of the logo should be used on dark background interfaces.
 
@@ -81,7 +85,7 @@ This version of the logo should be used on dark background interfaces.
 | Background color | [`dark`](../color/README.md/#base-colors) |
 
 
-## Modelina logo (dark)
+### Dark version
 This version of the logo should be used on light background interfaces.
 
 ![Modelina logo (light)](./assets/tooling-modelina-dark.png)
@@ -93,14 +97,16 @@ This version of the logo should be used on light background interfaces.
 | Background color | [`white`](../color/README.md/#base-colors), [`gray-50`](../color/README.md/#gray-neutrals) |
 
 
-### **Download logo kit for Modelina**
+#### **Download logo kit for Modelina**
 This kit includes both light and dark versions of the logo in PNG and SVG.
 
 [Get them here](../../logos/tooling/modelina/)
 
 ---
 
-## Glee logo (light)
+## Glee logo
+
+### Light version
 This version of the logo should be used on dark background interfaces.
 
 ![Glee logo (light)](./assets/tooling-glee-light.png)
@@ -112,7 +118,7 @@ This version of the logo should be used on dark background interfaces.
 | Background color | [`dark`](../color/README.md/#base-colors) |
 
 
-## Glee logo (dark)
+### Dark version
 This version of the logo should be used on light background interfaces.
 
 ![Glee logo (dark)](./assets/tooling-glee-dark.png)
@@ -124,14 +130,16 @@ This version of the logo should be used on light background interfaces.
 | Background color | [`white`](../color/README.md/#base-colors), [`gray-50`](../color/README.md/#gray-neutrals) |
 
 
-### **Download logo kit for Glee**
+#### **Download logo kit for Glee**
 This kit includes both light and dark versions of the logo in PNG and SVG.
 
 [Get them here](../../logos/tooling/glee/)
 
 ---
 
-## Parser logo (light)
+## Parser logo
+
+### Light version
 This version of the logo should be used on dark background interfaces.
 
 ![Parser logo (light)](./assets/tooling-parser-light.png)
@@ -143,7 +151,7 @@ This version of the logo should be used on dark background interfaces.
 | Background color | [`dark`](../color/README.md/#base-colors) |
 
 
-## Parser logo (dark)
+### Dark version
 This version of the logo should be used on light background interfaces.
 
 ![Parser logo (dark)](./assets/tooling-parser-dark.png)
@@ -155,14 +163,16 @@ This version of the logo should be used on light background interfaces.
 | Background color | [`white`](../color/README.md/#base-colors), [`gray-50`](../color/README.md/#gray-neutrals) |
 
 
-### **Download logo kit for Parser**
+#### **Download logo kit for Parser**
 This kit includes both light and dark versions of the logo in PNG and SVG.
 
 [Get them here](../../logos/tooling/parser/)
 
 ---
 
-## CLI logo (light)
+## CLI logo
+
+### Light version
 This version of the logo should be used on dark background interfaces.
 
 ![CLI logo (light)](./assets/tooling-cli-light.png)
@@ -174,7 +184,7 @@ This version of the logo should be used on dark background interfaces.
 | Background color | [`dark`](../color/README.md/#base-colors) |
 
 
-## CLI logo (dark)
+### Dark version
 This version of the logo should be used on light background interfaces.
 
 ![CLI logo (dark)](./assets/tooling-cli-dark.png)
@@ -186,14 +196,16 @@ This version of the logo should be used on light background interfaces.
 | Background color | [`white`](../color/README.md/#base-colors), [`gray-50`](../color/README.md/#gray-neutrals) |
 
 
-### **Download logo kit for CLI**
+#### **Download logo kit for CLI**
 This kit includes both light and dark versions of the logo in PNG and SVG.
 
 [Get them here](../../logos/tooling/cli/)
 
 ---
 
-## Github Actions logo (light)
+## Github Actions logo
+
+### Light version
 This version of the logo should be used on dark background interfaces.
 
 ![Github Actions logo (light)](./assets/tooling-ghactions-light.png)
@@ -205,7 +217,7 @@ This version of the logo should be used on dark background interfaces.
 | Background color | [`dark`](../color/README.md/#base-colors) |
 
 
-## Github Actions logo (dark)
+### Dark version
 This version of the logo should be used on light background interfaces.
 
 ![Github Actions logo (dark)](./assets/tooling-ghactions-dark.png)
@@ -217,14 +229,16 @@ This version of the logo should be used on light background interfaces.
 | Background color | [`white`](../color/README.md/#base-colors), [`gray-50`](../color/README.md/#gray-neutrals) |
 
 
-### **Download logo kit for Github Actions**
+#### **Download logo kit for Github Actions**
 This kit includes both light and dark versions of the logo in PNG and SVG.
 
 [Get them here](../../logos/tooling/github-actions/)
 
 ---
 
-## Generator logo (light)
+## Generator logo
+
+### Light version
 This version of the logo should be used on dark background interfaces.
 
 ![Generator logo (light)](./assets/tooling-generator-light.png)
@@ -236,7 +250,7 @@ This version of the logo should be used on dark background interfaces.
 | Background color | [`dark`](../color/README.md/#base-colors) |
 
 
-## Generator logo (dark)
+### Dark version
 This version of the logo should be used on light background interfaces.
 
 ![Generator logo (dark)](./assets/tooling-generator-dark.png)
@@ -248,8 +262,12 @@ This version of the logo should be used on light background interfaces.
 | Background color | [`white`](../color/README.md/#base-colors), [`gray-50`](../color/README.md/#gray-neutrals) |
 
 
-### **Download logo kit for Generator**
+#### **Download logo kit for Generator**
 This kit includes both light and dark versions of the logo in PNG and SVG.
 
 [Get them here](../../logos/tooling/generator/)
+
+---
+
+[<-- Back to Brand Guidelines home](/brand-guidelines/README.md)
 
