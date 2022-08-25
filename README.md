@@ -15,6 +15,12 @@ Navigate through our brand guidelines using the links below
     - [Typography](brand-guidelines/typography/README.md)
     - [Branded Tools](brand-guidelines/branded-tools/README.md)
 
+## 📖 README assets
+Have an AsyncAPI tool/project that you would like to add the logo to?
+
+1. [Download generic banner](./assets/github-repobanner-generic.png) and include it in your README via an `assets` folder in the root of your repository
+2. [Request a custom banner](https://github.com/asyncapi/brand/issues/new?&title=New+repo+banner+request&body=Leave+the+title+and+link+of+your+repo+and+any+other+details+here&assignees=mcturco&labels=:art:+design) by submitting an issue
+
 ## 🙌 💡 Ready to contribute?
 There are plenty of ways to share your contribution with this project, and you don't have to be a designer to do so! We welcome feedback and work alike in the following areas:
 
