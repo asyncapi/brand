@@ -52,4 +52,7 @@ The mascots are designed to be used across different AsyncAPI materials, includi
 ## 7. Acknowledgments & Next Steps
 Chan and Eve were designed by [Victoria Nduka](https://github.com/nwanduka) with feedback from the AsyncAPI community. For a detailed overview of the design process, including the initial concept, design iterations, feedback, and the final voting results, please refer to [this GitHub issue](https://github.com/asyncapi/brand/issues/12). This discussion captures all the conversations, decisions, and collaborative efforts that led to the final mascot design.
 Future iterations may include additional expressions, animations, or event-specific themes. If you're interested in helping expand the mascot design, don’t hesitate to share your ideas.
+
 👉 [Download Mascot Files Here](../eve-and-chan-new)
+
+👉 [Figma Link](https://www.figma.com/design/tgSuADGYTg8l4OS0Rjf9Hi/AsyncAPI-Designs?node-id=132-392&t=YY3GFH1DxaBqgLK4-4)

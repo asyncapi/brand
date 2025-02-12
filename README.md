@@ -14,6 +14,7 @@ Navigate through our brand guidelines using the links below
     - [Color](brand-guidelines/color/README.md)
     - [Typography](brand-guidelines/typography/README.md)
     - [Branded Tools](brand-guidelines/branded-tools/README.md)
+    - [Mascot](illustrations/mascots/README.md)
 
 ## 📖 README assets
 Have an AsyncAPI tool/project that you would like to add the logo to?
