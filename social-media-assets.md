@@ -87,7 +87,6 @@ The purpose of these assets is to:
 - Use the #design_12 channel on Slack or open an issue in the [Brand Repo](https://github.com/asyncapi/brand).
 
 
----
 
 ## References
 - [Community Social Assets](https://www.figma.com/design/LgSxCOVi0iE2I7gijl5rf0/Community-Social-Assets?node-id=681-59&t=Lqe9gkN2tIzC8B2k-1)
