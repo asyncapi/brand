@@ -17,7 +17,7 @@ The purpose of these assets is to:
 - Save time for designers and contributors by reusing approved layouts, typography, and colors.
 
 ## How to Contribute - Step by Step
-**1. Download the AsyncAPI Design System** 
+1. Download the AsyncAPI Design System
 - Make sure you have the [AsyncAPI Design System](https://www.figma.com/design/cFsY4LCfKmDqdlaTIJPpA1/AsyncAPI-Design-System?node-id=0-1&t=3tA1jqC9CLz2kfPp-1) duplicated to your Figma workspace. This ensures you have access to all required components.
 <img width="1276" height="688" alt="Duplicate the design system" src="https://github.com/user-attachments/assets/53df47cb-0671-49e2-8ee4-44a5b5645467" />
 
