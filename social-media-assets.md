@@ -17,31 +17,27 @@ The purpose of these assets is to:
 - Save time for designers and contributors by reusing approved layouts, typography, and colors.
 
 ## How to Contribute - Step by Step
-1. Download the AsyncAPI Design System
+### 1. Download the AsyncAPI Design System
 - Make sure you have the [AsyncAPI Design System](https://www.figma.com/design/cFsY4LCfKmDqdlaTIJPpA1/AsyncAPI-Design-System?node-id=0-1&t=3tA1jqC9CLz2kfPp-1) duplicated to your Figma workspace. This ensures you have access to all required components.
 <img width="1276" height="688" alt="Duplicate the design system" src="https://github.com/user-attachments/assets/53df47cb-0671-49e2-8ee4-44a5b5645467" />
 
----
 
-
-2. Copy the Template
+### 2. Copy the Template
 - Open the [Community Social Assets-Figma file](https://www.figma.com/design/LgSxCOVi0iE2I7gijl5rf0/Community-Social-Assets?node-id=0-1&t=4GTYhSy2Sv1eqqsL-1) and copy the relevant template (both the example and the template) to your Figma file.
 
 - The example is provided to help you ensure that every change made to the template looks the same as the example when completed.
 
 <img width="1280" height="697" alt="Screen Shot 2025-08-13 at 1 59 44 PM" src="https://github.com/user-attachments/assets/8f7d1331-da02-4032-8c5c-0979bd0c8a58" />
 
----
 
-3. Edit Text & Images Only
+### 3. Edit Text & Images Only
 - Do not change brand colors, fonts, or layout elements.
 - Only replace the placeholder text and images
 
 <img width="1280" height="693" alt="Screen Shot 2025-08-13 at 2 05 50 PM" src="https://github.com/user-attachments/assets/ff08b83b-8a35-4aa5-8829-fb15d0ff7ae4" />
 
----
 
-4. Prepare Your Images
+### 4. Prepare Your Images
 - All images used in templates must have a transparent background.  
 - Use [remove.bg](https://remove.bg). It’s free and quick.
 
@@ -69,19 +65,17 @@ The purpose of these assets is to:
 
 
 
-5. Submit Your Work
+### 5. Submit Your Work
 - Post your design in the #design_12 Slack channel, *or*
 - Open a new issue in the [Brand Repo](https://github.com/asyncapi/brand) and tag the *Design Lead* @Mayaleeeee
 - Wait for a few days to get a review of your work.
 
----
 
 ## Requesting a New Social Media Design
 - Make sure to double-check the Brand repository if the issue has not been created before to avoid duplicate issues.
 - Open an issue in the [Brand Repo](https://github.com/asyncapi/brand).
 - Tag the design lead so it can be assigned to anyone interested on time.
 
----
 
 ## Feedback or Suggestions?
 - Use the [`#12_design` channel on Slack](https://asyncapi.slack.com/archives/C02JW8DA0DC) or open an issue in the [Brand Repo](https://github.com/asyncapi/brand).
