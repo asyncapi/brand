@@ -84,7 +84,7 @@ The purpose of these assets is to:
 ---
 
 ## Feedback or Suggestions?
-- Use the #design_12 channel on Slack or open an issue in the [Brand Repo](https://github.com/asyncapi/brand).
+- Use the [`#12_design` channel on Slack](https://asyncapi.slack.com/archives/C02JW8DA0DC) or open an issue in the [Brand Repo](https://github.com/asyncapi/brand).
 
 
 
