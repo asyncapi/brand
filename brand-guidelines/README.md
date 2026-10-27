@@ -8,4 +8,5 @@ Looking to make a contribution to AsyncAPI that requires visual design? Before d
     - [Logo](./logo/README.md)
     - [Color](./color/README.md)
     - [Typography](./typography/README.md)
+    - [Iconography](./iconography/README.md)
     - [Branded Tools](./branded-tools/README.md)
